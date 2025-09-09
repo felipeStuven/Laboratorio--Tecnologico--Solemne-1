@@ -1,0 +1,23 @@
+[
+  {
+    "clase": "alta",
+    "murieron": 80,
+    "sobrevivieron": 136,
+    "hombres": 122,
+    "mujeres": 94
+  },
+  {
+    "clase": "media",
+    "murieron": 97,
+    "sobrevivieron": 87,
+    "hombres": 108,
+    "mujeres": 76
+  },
+  {
+    "clase": "baja",
+    "murieron": 372,
+    "sobrevivieron": 119,
+    "hombres": 347,
+    "mujeres": 144
+  }
+]
